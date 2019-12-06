@@ -19,24 +19,31 @@
 # Put a comment noting which class is the base class
 
 # BASE
+
+
 class Vehicle:
-  pass
+    pass
+
 
 class FlightVehicle(Vehicle):
-  pass
+    pass
+
 
 class Starship(FlightVehicle):
-  pass
+    pass
+
 
 class Airplane(FlightVehicle):
-  pass
+    pass
+
 
 class GroundVehicle(Vehicle):
-  pass
+    pass
+
 
 class Car(GroundVehicle):
-  pass
+    pass
+
 
 class Motorcycle(GroundVehicle):
-  pass
-
+    pass
